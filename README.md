@@ -27,7 +27,7 @@ cobalt
 modechk
 ```
 
-In the `juce_graphics`, `juce_gui_basics`, and `juce_gui_extra` modules (which are for some obscure reason still required) disable all disableable voices.
+In the `juce_graphics`, `juce_gui_basics`, and `juce_gui_extra` modules (which are for some obscure reason still required) disable most of the disableable voices (not all of them, as some will cause trouble!). Also disable curl in `juce_core`.
 
 ## Prerequisites:
 
