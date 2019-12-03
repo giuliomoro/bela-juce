@@ -37,7 +37,6 @@ Not sure exactly what I had to install. Probably at least:
 libfreetype6-dev
 libxext6-dev
 libxinerama1-dev
-libcurl4-openssl-dev
 ```
 
 ## Further notes:
