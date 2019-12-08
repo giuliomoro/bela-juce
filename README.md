@@ -1,4 +1,4 @@
-An example project to use Juce with Bela. Currently requires [this](https://github.com/giuliomoro/JUCE/tree/fix/bela-fixes) JUCE branch.
+An example project to use Juce with Bela. Currently requires [this](https://github.com/WeAreROLI/JUCE/tree/develop) JUCE branch.
 
 The `.jucer` file comes with all the important flags already set. Here is a breakdown:
 Exporters -> LinuxMakefile
